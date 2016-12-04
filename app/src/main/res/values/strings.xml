@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="sorting_preference_title">Sort Options</string>
+    <string name="sorting_preference_key">type</string>
+    <string name="sorting_preference_top_rated">Top Rated</string>
+    <string name="sorting_preference_most_popular">Most Popular</string>
+
+    <string name="detail_page_title">Title: %1$s</string>
+    <string name="detail_page_release_date">Release Date: %1$s</string>
+    <string name="detail_page_rating">Rating: %1$s</string>
+    <string name="detail_page_synopsis">Synopsis: %1$s</string>
+    <string name="detail_page_intent_key">movie</string>
+
+    <string name="url_parse_result">results</string>
+    <string name="url_parse_poster_path">poster_path</string>
+    <string name="url_parse_title">original_title</string>
+    <string name="url_parse_overview">overview</string>
+    <string name="url_parse_rating">vote_average</string>
+    <string name="url_parse_release_date">release_date</string>
+    <string name="url_parse_poster_base_url">http://image.tmdb.org/t/p/w185/%1$s</string>
+
+    <string name="url_build_top_rated">top_rated</string>
+    <string name="url_build_most_popular">popular</string>
+    <string name="url_build_base_url">https://api.themoviedb.org/3/movie/</string>
+    <string name="url_build_api_key">api_key</string>
+    <string name="url_build_language">language</string>
+    <string name="url_build_en_us">en-US</string>
+
+    <string name="no_network_text">Please connect your device to the internet</string>
+    <string name="no_network_title">Network Issue!</string>
+</resources>
